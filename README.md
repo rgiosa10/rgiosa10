@@ -1,10 +1,10 @@
 <h2>
-  Data Engineer, Category and Partner Management Leader 
+  Data Engineer, Category and Partner Management Leader &nbsp; &nbsp;
 	<a href="https://www.linkedin.com/in/rubengiosa/">
-		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+		<img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white" />
 	</a>
 	<a href="mailto:rubenalexgiosa@gmail.com">
-		<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+		<img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
 	</a>
 </h2>
 
@@ -23,15 +23,18 @@ Based in southern California and attended UCLA (Go Bruins!). I have a passion fo
 ![Spark](https://img.shields.io/badge/-ApacheSpark-05122A?style=flat&logo=apachespark)&nbsp; 
 ![Airflow](https://img.shields.io/badge/-ApacheAirflow-05122A?style=flat&logo=apacheairflow)&nbsp; \
 ![BigQuery](https://img.shields.io/badge/-BigQuery-05122A?style=flat&logo=bigquery)&nbsp; 
-![Looker](https://img.shields.io/badge/-Looker-05122A?style=flat&logo=looker)&nbsp; 
+![Looker](https://img.shields.io/badge/-Looker-05122A?style=flat&logo=looker)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![Github](https://img.shields.io/badge/-Github-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=html5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=css3)&nbsp;
 
 ## Click on one of the images below to view projects incorporating that technology:
 
-[<img src='https://img.shields.io/badge/-Python-05122A?style=flat&logo=python' width='100' height='50'>](https://github.com/rgiosa10/Emissions-by-Country.git) &nbsp; &nbsp; &nbsp; &nbsp; [<img src='https://img.shields.io/badge/-dbt-05122A?style=flat&logo=dbt' width='100' height='55'>](https://github.com/rgiosa10/dbt-indpnt-proj.git) &nbsp; &nbsp; &nbsp; &nbsp; [<img src='https://img.shields.io/badge/-ApacheAirflow-05122A?style=flat&logo=apacheairflow' width='120' height='55'>](https://github.com/rgiosa10/team-week3.git) &nbsp; &nbsp; &nbsp; &nbsp; [<img src='https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql' width='100' height='55'>](https://github.com/rgiosa10/Emissions-by-Country.git) &nbsp; &nbsp; &nbsp; &nbsp; [<img src='https://img.shields.io/badge/-BigQuery-05122A?style=flat&logo=bigquery' width='100' height='55'>](https://github.com/rgiosa10/team-week3.git) &nbsp; &nbsp; &nbsp; &nbsp; [<img src='https://img.shields.io/badge/-Looker-05122A?style=flat&logo=looker' width='100' height='55'>](https://github.com/rgiosa10/Emissions-by-Country.git)
+[<img src='https://img.shields.io/badge/-Python-05122A?style=flat&logo=python' width='110' height='55'>](https://github.com/rgiosa10/Emissions-by-Country.git) &nbsp; &nbsp; &nbsp; &nbsp; [<img src='https://img.shields.io/badge/-dbt-05122A?style=flat&logo=dbt' width='100' height='55'>](https://github.com/rgiosa10/dbt-indpnt-proj.git) &nbsp; &nbsp; &nbsp; &nbsp; [<img src='https://img.shields.io/badge/-ApacheAirflow-05122A?style=flat&logo=apacheairflow' width='140' height='55'>](https://github.com/rgiosa10/team-week3.git) &nbsp; &nbsp; &nbsp; &nbsp; [<img src='https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql' width='120' height='55'>](https://github.com/rgiosa10/Emissions-by-Country.git) &nbsp; &nbsp; &nbsp; &nbsp; [<img src='https://img.shields.io/badge/-BigQuery-05122A?style=flat&logo=bigquery' width='120' height='55'>](https://github.com/rgiosa10/team-week3.git) &nbsp; &nbsp; &nbsp; &nbsp; [<img src='https://img.shields.io/badge/-Looker-05122A?style=flat&logo=looker' width='120' height='55'>](https://github.com/rgiosa10/Emissions-by-Country.git)
 
 
 
