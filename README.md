@@ -1,4 +1,12 @@
-## Data Engineer, Category and Partner Management Leader
+<h2>
+  Data Engineer, Category and Partner Management Leader 
+	<a href="https://www.linkedin.com/in/rubengiosa/">
+		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+	</a>
+	<a href="mailto:rubenalexgiosa@gmail.com">
+		<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+	</a>
+</h2>
 
 Experienced in smart home, IoT, consumer electronics, retail category management, and end-to-end P&L management. Excited to leverage my years of processing, analyzing and leveraging data, coupled with my technical skills (ETL construction, Python, SQL, Airflow, Spark, BigQuery, dbt, Looker, etc), to drive results in data engineering.
 
@@ -6,7 +14,25 @@ Based in southern California and attended UCLA (Go Bruins!). I have a passion fo
 
 <img src='https://user-images.githubusercontent.com/115185983/220984474-24fdd0ae-488d-4583-9d53-160048ee09bd.png' width='850' height='410'>
 
+### 🛠 &nbsp;Tech Stack
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![NumPy](https://img.shields.io/badge/numpy%20-%23013243.svg?&style=flat&logo=numpy&logoColor=white)&nbsp;
+![Pandas](https://img.shields.io/badge/pandas%20-%23150458.svg?&style=flat&logo=pandas&logoColor=white)&nbsp;
+![SQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
+![dbt](https://img.shields.io/badge/-dbt-05122A?style=flat&logo=dbt)&nbsp; 
+![Spark](https://img.shields.io/badge/-ApacheSpark-05122A?style=flat&logo=apachespark)&nbsp; 
+![Airflow](https://img.shields.io/badge/-ApacheAirflow-05122A?style=flat&logo=apacheairflow)&nbsp; \
+![BigQuery](https://img.shields.io/badge/-BigQuery-05122A?style=flat&logo=bigquery)&nbsp; 
+![Looker](https://img.shields.io/badge/-Looker-05122A?style=flat&logo=looker)&nbsp; 
+![Github](https://img.shields.io/badge/-Github-05122A?style=flat&logo=github)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=html5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=css3)&nbsp;
+
 ## Click on one of the images below to view projects incorporating that technology:
 
-[<img src='https://user-images.githubusercontent.com/115185983/220992132-d4435ff5-2f0b-42fe-90d2-90250c8cd206.png' width='100' height='50'>](https://github.com/rgiosa10/Emissions-by-Country.git) &nbsp; &nbsp; &nbsp; &nbsp; [<img src='https://user-images.githubusercontent.com/115185983/220989310-a7d5ea48-b96a-465b-9fc9-eac45e77591b.png' width='100'>](https://github.com/rgiosa10/dbt-indpnt-proj.git) &nbsp; &nbsp; &nbsp; &nbsp; [<img src='https://user-images.githubusercontent.com/115185983/221030146-96f65234-19f0-4b99-bf55-383d1320ad5b.png' width='100'>](https://github.com/rgiosa10/team-week3.git) &nbsp; &nbsp; &nbsp; &nbsp; [<img src='https://user-images.githubusercontent.com/115185983/220991467-3ef2a6ec-d218-4dc1-bee8-a2bd6c2be52c.png' width='100' height='55'>](https://github.com/rgiosa10/Emissions-by-Country.git) &nbsp; &nbsp; &nbsp; &nbsp; [<img src='https://user-images.githubusercontent.com/115185983/221032109-e10a393c-e41a-488d-ab74-cc33fe1d6895.png' width='100'>](https://github.com/rgiosa10/team-week3.git) &nbsp; &nbsp; &nbsp; &nbsp; [<img src='https://user-images.githubusercontent.com/115185983/221032685-742769d6-e4a3-4622-8c47-58048a5af074.png' width='75' height='65'>](https://github.com/rgiosa10/Emissions-by-Country.git)
+[<img src='https://img.shields.io/badge/-Python-05122A?style=flat&logo=python' width='100' height='50'>](https://github.com/rgiosa10/Emissions-by-Country.git) &nbsp; &nbsp; &nbsp; &nbsp; [<img src='https://img.shields.io/badge/-dbt-05122A?style=flat&logo=dbt' width='100' height='55'>](https://github.com/rgiosa10/dbt-indpnt-proj.git) &nbsp; &nbsp; &nbsp; &nbsp; [<img src='https://img.shields.io/badge/-ApacheAirflow-05122A?style=flat&logo=apacheairflow' width='120' height='55'>](https://github.com/rgiosa10/team-week3.git) &nbsp; &nbsp; &nbsp; &nbsp; [<img src='https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql' width='100' height='55'>](https://github.com/rgiosa10/Emissions-by-Country.git) &nbsp; &nbsp; &nbsp; &nbsp; [<img src='https://img.shields.io/badge/-BigQuery-05122A?style=flat&logo=bigquery' width='100' height='55'>](https://github.com/rgiosa10/team-week3.git) &nbsp; &nbsp; &nbsp; &nbsp; [<img src='https://img.shields.io/badge/-Looker-05122A?style=flat&logo=looker' width='100' height='55'>](https://github.com/rgiosa10/Emissions-by-Country.git)
+
+
+
 
