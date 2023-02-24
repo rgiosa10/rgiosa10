@@ -1,5 +1,5 @@
 <h2>
-  Data Engineer, Category and Partner Management Leader &nbsp; &nbsp;
+  Data Engineer | Category Management | Strategy & Operations &nbsp; &nbsp;
 	<a href="https://www.linkedin.com/in/rubengiosa/">
 		<img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white" />
 	</a>
