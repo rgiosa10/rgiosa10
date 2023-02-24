@@ -12,7 +12,7 @@ Experienced in smart home, IoT, consumer electronics, retail category management
 
 Based in southern California and attended UCLA (Go Bruins!). I have a passion for soccer and I am technology-obsessed (creating the ultimate smart home is a hobby of mine).
 
-<img src='https://user-images.githubusercontent.com/115185983/220984474-24fdd0ae-488d-4583-9d53-160048ee09bd.png' width='850' height='410'>
+<img src='https://user-images.githubusercontent.com/115185983/221060662-e527d92b-80d3-4258-9021-4fd866c2afa8.png' width='850' height='410'>
 
 ### 🛠 &nbsp;Tech Stack
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
