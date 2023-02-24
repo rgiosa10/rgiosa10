@@ -44,6 +44,7 @@ Based in southern California and attended UCLA (Go Bruins!). I have a passion fo
 
 
 ![rgiosa10's GitHub stats](https://github-readme-stats.vercel.app/api?username=rgiosa10&theme=dark&show_icons=true&hide_title=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rgiosa10&theme=dark&show_icons=true&layout=compact&langs_count=7&hide_title=true)
 
 
 
