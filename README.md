@@ -34,7 +34,12 @@ Based in southern California and attended UCLA (Go Bruins!). I have a passion fo
 
 ## Click on one of the images below to view projects incorporating that technology:
 
-[<img src='https://img.shields.io/badge/-Python-05122A?style=flat&logo=python' width='110' height='55'>](https://github.com/rgiosa10/Emissions-by-Country.git) &nbsp; &nbsp; &nbsp; &nbsp; [<img src='https://img.shields.io/badge/-dbt-05122A?style=flat&logo=dbt' width='100' height='55'>](https://github.com/rgiosa10/dbt-indpnt-proj.git) &nbsp; &nbsp; &nbsp; &nbsp; [<img src='https://img.shields.io/badge/-ApacheAirflow-05122A?style=flat&logo=apacheairflow' width='135' height='55'>](https://github.com/rgiosa10/team-week3.git) &nbsp; &nbsp; &nbsp; &nbsp; [<img src='https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql' width='120' height='55'>](https://github.com/rgiosa10/Emissions-by-Country.git) &nbsp; &nbsp; &nbsp; &nbsp; [<img src='https://img.shields.io/badge/-BigQuery-05122A?style=flat&logo=bigquery' width='115' height='55'>](https://github.com/rgiosa10/team-week3.git) &nbsp; &nbsp; &nbsp; &nbsp; [<img src='https://img.shields.io/badge/-Looker-05122A?style=flat&logo=looker' width='115' height='55'>](https://github.com/rgiosa10/Emissions-by-Country.git)
+[<img src='https://img.shields.io/badge/-Python-05122A?style=flat&logo=python' width='100' height='50'>](https://github.com/rgiosa10/Emissions-by-Country.git) &nbsp; &nbsp; &nbsp; &nbsp; 
+[<img src='https://img.shields.io/badge/-dbt-05122A?style=flat&logo=dbt' width='90' height='50'>](https://github.com/rgiosa10/dbt-indpnt-proj.git) &nbsp; &nbsp; &nbsp; &nbsp; 
+[<img src='https://img.shields.io/badge/-ApacheAirflow-05122A?style=flat&logo=apacheairflow' width='125' height='50'>](https://github.com/rgiosa10/team-week3.git) &nbsp; &nbsp; &nbsp; &nbsp; 
+[<img src='https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql' width='110' height='50'>](https://github.com/rgiosa10/Emissions-by-Country.git) &nbsp; &nbsp; &nbsp; &nbsp; 
+[<img src='https://img.shields.io/badge/-BigQuery-05122A?style=flat&logo=bigquery' width='105' height='50'>](https://github.com/rgiosa10/team-week3.git) &nbsp; &nbsp; &nbsp; &nbsp; 
+[<img src='https://img.shields.io/badge/-Looker-05122A?style=flat&logo=looker' width='105' height='50'>](https://github.com/rgiosa10/Emissions-by-Country.git)
 
 
 
