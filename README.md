@@ -25,6 +25,7 @@ Based in southern California and attended UCLA (Go Bruins!). I have a passion fo
 ![GCP](https://img.shields.io/badge/-GoogleCloud-05122A?style=flat&logo=googlecloud)&nbsp; \
 ![BigQuery](https://img.shields.io/badge/-BigQuery-05122A?style=flat&logo=bigquery)&nbsp; 
 ![Looker](https://img.shields.io/badge/-Looker-05122A?style=flat&logo=looker)&nbsp;
+![Jinja](https://img.shields.io/badge/-Jinja-05122A?style=flat&logo=jinja)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![Github](https://img.shields.io/badge/-Github-05122A?style=flat&logo=github)&nbsp;
