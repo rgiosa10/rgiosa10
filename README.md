@@ -21,7 +21,8 @@ Based in southern California and attended UCLA (Go Bruins!). I have a passion fo
 ![SQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
 ![dbt](https://img.shields.io/badge/-dbt-05122A?style=flat&logo=dbt)&nbsp; 
 ![Spark](https://img.shields.io/badge/-ApacheSpark-05122A?style=flat&logo=apachespark)&nbsp; 
-![Airflow](https://img.shields.io/badge/-ApacheAirflow-05122A?style=flat&logo=apacheairflow)&nbsp; 
+![Airflow](https://img.shields.io/badge/-ApacheAirflow-05122A?style=flat&logo=apacheairflow)&nbsp;
+![OpenAI](https://img.shields.io/badge/-OpenAI-05122A?style=flat&logo=openai)&nbsp;
 ![GCP](https://img.shields.io/badge/-GoogleCloud-05122A?style=flat&logo=googlecloud)&nbsp; \
 ![BigQuery](https://img.shields.io/badge/-BigQuery-05122A?style=flat&logo=bigquery)&nbsp; 
 ![Looker](https://img.shields.io/badge/-Looker-05122A?style=flat&logo=looker)&nbsp;
