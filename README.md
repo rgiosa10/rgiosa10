@@ -42,7 +42,8 @@ Based in southern California and attended UCLA (Go Bruins!). I have a passion fo
 [<img src='https://img.shields.io/badge/-ApacheAirflow-05122A?style=flat&logo=apacheairflow' width='125' height='50'>](https://github.com/rgiosa10/team-week3.git) &nbsp; &nbsp; &nbsp; &nbsp; 
 [<img src='https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql' width='110' height='50'>](https://github.com/rgiosa10/Emissions-by-Country.git) &nbsp; &nbsp; &nbsp; &nbsp; 
 [<img src='https://img.shields.io/badge/-BigQuery-05122A?style=flat&logo=bigquery' width='105' height='50'>](https://github.com/rgiosa10/team-week3.git) &nbsp; &nbsp; &nbsp; &nbsp; 
-[<img src='https://img.shields.io/badge/-Looker-05122A?style=flat&logo=looker' width='105' height='50'>](https://github.com/rgiosa10/Emissions-by-Country.git)
+[<img src='https://img.shields.io/badge/-Looker-05122A?style=flat&logo=looker' width='105' height='50'>](https://github.com/rgiosa10/Emissions-by-Country.git) &nbsp; &nbsp; &nbsp; &nbsp; 
+[<img src='https://img.shields.io/badge/-OpenAI-05122A?style=flat&logo=openai' width='105' height='50'>](https://github.com/rgiosa10/crypto-pricing-project.git)
 
 
 ![rgiosa10's GitHub stats](https://github-readme-stats.vercel.app/api?username=rgiosa10&theme=dark&show_icons=true&hide_title=true)
